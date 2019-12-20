@@ -15,4 +15,4 @@ La base de données utilisée contient 7 caractéristiques qui sont présentées
 
 
 Enfin, la variable de décision est définie comme suit :
-•	resultat: variable de classe (0 pas malade et 1 si c’est malade)
+•	resultat: variable de classe (0 (Non malade) pas malade et 1 (Malade) si c’est malade)
