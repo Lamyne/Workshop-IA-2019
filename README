@@ -1,0 +1,18 @@
+Description de la base de données 
+
+La base de données originale est construite par l'Institut national du diabète et des maladies digestives et rénales. Son objectif est de prédire sur la base de mesures diagnostiques si un patient souffre de diabète.
+Dans le cadre de ce TP, une partie de la base de données sera utilisée. Celle-ci sera fournie par l’encadrant. Plusieurs contraintes ont été placées sur la sélection de ces exemples. En particulier, tous les patients ici sont des femmes d'au moins 21 ans d'origine « Indienne Pima ».
+
+La base de données utilisée contient 7 caractéristiques qui sont présentées ci-dessous : 
+  •	grossesses: nombre de fois enceintes
+  •	glucose: concentration plasmatique de glucose à 2 heures dans un test de tolérance au glucose par voie orale
+  •	press_art: pression artérielle diastolique (mm Hg)
+  •	peau: épaisseur du pli cutané du triceps (mm)
+  •	insuline: insuline sérique 2 heures (mu U / ml)
+  •	IMC: indice de masse corporelle (poids en kg / (hauteur en m) ^ 2)
+  •	fctDiabete: Fonction pedigree du diabète
+  •	age: Âge (ans)
+
+
+Enfin, la variable de décision est définie comme suit :
+•	resultat: variable de classe (0 pas malade et 1 si c’est malade)
